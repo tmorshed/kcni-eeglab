@@ -24,6 +24,17 @@ Description and records of operations at KCNI EEG Lab (CAMH room 624)
 5. Initialise all the sensors
 6. GitHub repo
 
+### To purchase:
+1. 2x Cable Concealer for large cables: AD purchased
+2. 3.5mm Headphone Extension Cable: AD purchased
+3. SYB Airtube Stereo Headset: AD purchased
+4. 2x 5m USB Extension Cable:AD purchased
+5. 78x59 inch Tapestry Wallpaper Forest: AD purchased
+6. 55x39 inch Tapestry Wallpaper Waterfall: AD purchased
+7. 4K HDMI Cable 20ft: AD purchased
+
+### To bring:
+1. Inner room carpet: AD
 
 ### Request CAMH to do:
 1. Provide lab coats and laundry schedule
